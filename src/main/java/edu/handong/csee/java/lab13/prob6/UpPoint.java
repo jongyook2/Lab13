@@ -8,6 +8,6 @@ public class UpPoint implements CapitalPrint{ //declare DownPoint class and inhe
 	}
 	public String toString() { //declare toString method (generating)
 
-		return "x : "+x+" y :"+y; //return "x : "+x+" y :"+y (string)
+		return "x : "+x+" y : "+y; //return "x : "+x+" y : "+y (string)
 	}
 }

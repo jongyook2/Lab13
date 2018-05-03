@@ -8,6 +8,6 @@ public class DownPoint { //declare DownPoint class
 	}
 	public String toString() { //declare toString method (generating)
 
-		return "x : "+x+" y :"+y; //return "x : "+x+" y :"+y (string)
+		return "x : "+x+" y : "+y; //return "x : "+x+" y : "+y (string)
 	}
 }
